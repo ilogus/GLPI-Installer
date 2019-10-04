@@ -50,4 +50,5 @@ We are working on a [markdown version](https://github.com/glpi-project/doc)
 
 
 
+contact@ilogus.fr
 [www.ilogus.dev](https://www.ilogus.dev)
